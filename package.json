@@ -1,0 +1,25 @@
+{
+  "name": "nest-comment",
+  "version": "1.0.0",
+  "description": "nest-comment is a jquery plugin to create comment widget for nest",
+  "main": "./dist/nest-comment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jilijelon/nest-comment.git"
+  },
+  "keywords": [
+    "nest",
+    "comment",
+    "jquery",
+    "plugin"
+  ],
+  "author": "jelon <jilijelon@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jilijelon/nest-comment/issues"
+  },
+  "homepage": "https://github.com/jilijelon/nest-comment#readme"
+}
